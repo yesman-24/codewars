@@ -15,3 +15,5 @@ function permutations(string) {
 
 	return [...new Set(perms)];
 }
+
+console.log(permutations("bac"));
