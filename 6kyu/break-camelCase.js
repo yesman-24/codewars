@@ -9,6 +9,3 @@ function solution(string) {
 	}
 	return newString;
 }
-
-console.log(solution("string"));
-console.log(solution("hotDogHotDogHotDigididog"));

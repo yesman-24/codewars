@@ -19,9 +19,3 @@ function nextBigger(n) {
 	}
 	return -1;
 }
-
-console.log(nextBigger(147));
-console.log(nextBigger(741));
-console.log(nextBigger(714));
-console.log(nextBigger(714));
-console.log(nextBigger(47690102267482));

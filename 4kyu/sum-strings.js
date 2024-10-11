@@ -21,4 +21,3 @@ function sumStrings(a, b) {
 	}
 	return sumArray.map(String).reverse().join("");
 }
-console.log(sumStrings("50095301248058391139327916261", "81055900096023504197206408605"));
